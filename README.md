@@ -1,4 +1,5 @@
 👋 Hi there, I'm Bagus Aditya!
+
 🚀 Backend Developer | Golang Enthusiast | Tech Explorer  
 
 I'm passionate about building scalable backend systems and exploring cloud technologies. Currently, I'm learning about **Redis, Docker, Kubernetes, AWS, and Elasticsearch**.
@@ -12,6 +13,6 @@ I'm passionate about building scalable backend systems and exploring cloud techn
 🔥 Featured Projects  
 - **Library System API** - REST API for Library System using Golang & MySQL → [GitHub Repository](https://github.com/Bagus29-IUS/LibrarySystem)
 
-  📫 How to reach me  
-- LinkedIn: [linkedin.com/in/Bagus Aditia](https://www.linkedin.com/in/bagus-aditia-a7935b242/))  
+📫 How to Reach Me  
+- LinkedIn: [linkedin.com/in/Bagus Aditia](https://www.linkedin.com/in/bagus-aditia-a7935b242/)
 - Email: mohbagusaditya123@email.com 
