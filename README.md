@@ -1,18 +1,36 @@
-👋 Hi there, I'm Bagus Aditya!
+# 👋 Hi, I'm Bagus Aditia!
 
-🚀 Backend Developer | Golang Enthusiast | Tech Explorer  
+🎮 **Indie Game Developer & Mobile App Developer**  
+Self-taught developer dari Indonesia, fokus di Unity (C#) dan Flutter (Dart).  
+Suka bikin hal dari nol — dari game horor atmosferik sampai aplikasi mobile.
 
-I'm passionate about building scalable backend systems and exploring cloud technologies. Currently, I'm learning about **Redis, Docker, Kubernetes, AWS, and Elasticsearch**.
+---
 
-🚀 Tech Stack
+## 🛠️ Tech Stack
 
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
-🔥 Featured Projects  
-- **Library System API** - REST API for Library System using Golang & MySQL → [GitHub Repository](https://github.com/Bagus29-IUS/LibrarySystem)
+---
+
+## 🔥 Projects
+
+| Project | Deskripsi | Stack |
+|---|---|---|
+| **MoodTune** | Mobile app launcher berbasis perintah suara (dalam pengembangan) | Flutter, Dart |
+| **Terisolasi** | Game horor 3D atmosferik — quest system, save/load, adaptive audio | Unity, C#, FMOD |
+| **Fruit Blade** | Mobile fruit-slicing game dengan arsitektur modular | Unity, C# |
+| **The Resonation** | Asymmetric multiplayer game 1v3, dibangun solo | Roblox, Lua |
+
+---
+
+## 📫 Reach Me
+
+- 📧 mohbagusaditya123@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/bagus-aditia-a7935b242)
 
 📫 How to Reach Me  
 - LinkedIn: [linkedin.com/in/Bagus Aditia](https://www.linkedin.com/in/bagus-aditia-a7935b242/)
